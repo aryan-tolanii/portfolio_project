@@ -14,8 +14,7 @@ This portfolio highlights my expertise as a Full Stack Web Developer, particular
 
 ## 🚀 Tech Stack
 
-- **Frontend**: HTML, Tailwind CSS, JavaScript
-- **Framework**: React *(if used)*
+- **Frontend**: HTML, Tailwind CSS
 - **Deployment**: [Netlify](https://www.netlify.com/)
 - **Version Control**: Git & GitHub
 
